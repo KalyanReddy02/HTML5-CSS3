@@ -1,0 +1,138 @@
+<!doctype html>
+<html>
+<head>
+<title> Project details
+</title>
+<style>
+table, th, td {
+  border:2px solid orange;
+  color:white
+}
+th,td {
+font-size:20px
+}
+
+table {
+
+border:5px solid orange;
+ 
+}
+
+</style>
+</head>
+<body style="color:green; background-color:black;">
+<h1 title="Hi friends" style="text-align:center; color:brown; font-size:35px"> Welcome to my Project </h1>
+<h3 style="text-align:center; font-size:20px">This is some data of BMW Cars.</h3>
+
+<table style="width:80%">
+  <tr>
+    <th>BMW INDIA </th>
+    <th>No.of Branchs</th>
+    <th>No.of cars</th>
+  </tr>
+  <tr>
+    <td>BMW 350</td>
+    <td>20</td>
+    <td>170 </td>
+  </tr>
+  <tr>
+    <td>BMW 890</td>
+    <td>25</td>
+    <td>168</td>
+  </tr>
+  <tr>
+    <td>BMW 1090</td>
+    <td>36</td>
+    <td>278</td>
+  </tr>
+  
+  <tr>
+    <td>BMW 1460</td>
+    <td>45</td>
+    <td>176</td>
+  </tr>
+  <tr>
+    <td>BMW 1880</td>
+    <td>48</td>
+    <td>279</td>
+  </tr>
+  <tr>
+    <td>BMW 1990</td>
+    <td>23</td>
+    <td>163</td>
+  </tr>
+  <tr>
+    <td>BMW 2250</td>
+    <td>29</td>
+    <td>158</td>
+  </tr>
+  
+</table>
+
+
+<br>
+<br>
+
+
+<table style="width:80% ;  border:5px solid brown;
+  color:white">
+  <tr>
+    <th>BMW US </th>
+    <th>No.of Branchs</th>
+    <th>No.of cars</th>
+  </tr>
+  <tr>
+    <td>BMW 350</td>
+    <td>28</td>
+    <td>260 </td>
+  </tr>
+  <tr>
+    <td>BMW 890</td>
+    <td>35</td>
+    <td>238</td>
+  </tr>
+  <tr>
+    <td>BMW 1090</td>
+    <td>43</td>
+    <td>368</td>
+  </tr>
+  
+  <tr>
+    <td>BMW 1460</td>
+    <td>47</td>
+    <td>256</td>
+  </tr>
+  <tr>
+    <td>BMW 1880</td>
+    <td>68</td>
+    <td>387</td>
+  </tr>
+  <tr>
+    <td>BMW 1990</td>
+    <td>32</td>
+    <td>243</td>
+  </tr>
+  <tr>
+    <td>BMW 2250</td>
+    <td>36</td>
+    <td>278</td>
+  </tr>
+
+  
+</table>
+
+<h2 style="text-align:center; font-size:35px"> Introducing the new bmw car 
+</h2>
+
+<p style="text-align:center"><img src="Car.jpg" width="650" height="350">
+</img></p>
+
+<p style="text-align:center"><img src="Car1.jpg" width="600" height="330">
+</img></p>
+
+
+
+
+
+</body>
+</html>
